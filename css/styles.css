@@ -1,0 +1,82 @@
+#divLogo {
+    width: 100%;
+    height: 300px;
+    background-color: #FF5D5B;
+    display: table;
+}
+
+#navId {
+    height: 41px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: white;
+}
+
+#navId  a {
+    background-color: black;
+    color: white;
+    font-family: "Muli",sans-serif,"google";
+    border: none;
+}
+
+#navId  a:hover {
+    color: #000;
+    background-color: #a0915c;
+}
+
+#divContainer {
+    width: 70%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.divImagen {
+    width: 100%;
+}
+
+#divLogo{
+    text-align: center;
+}
+
+#divImageLogo{
+    margin: auto;
+}
+
+.imgMueble {
+    width: 100%;
+    height: auto;
+}
+
+.descripcionTitulo {
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif,"websafe";
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    text-transform: none;
+    line-height: 1;
+    color: #282828;
+}
+
+.descripcionCuerpo {
+    color: #000;
+    font-family: "Titillium Web",sans-serif,"google";
+    font-size: 16px;
+    line-height: 1.75em;
+}
+
+.descripcionSubtitulo{
+    font-weight: bold;
+}
+
+.descripcionMedidas{
+
+}
+
+#divFooter {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
